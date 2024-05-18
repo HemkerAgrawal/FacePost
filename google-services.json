@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "439556064688",
+    "project_id": "facepostapp-4a5c1",
+    "storage_bucket": "facepostapp-4a5c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439556064688:android:44713e86f6ba81ed978275",
+        "android_client_info": {
+          "package_name": "com.ufinix.facepost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7gQk8wjOcJ2ZzicN1lCAl3OQYcp_qmnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
